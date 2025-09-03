@@ -16,8 +16,6 @@ A full-featured e-commerce backend built with Java and Spring Boot.
 - 🧑‍💼 User Registration & Authentication (JWT-based)
 - 🛒 Product Catalog Management
 - 📦 Order Placement & Tracking
-- 💳 Payment Integration (placeholder)
-- 📊 Admin Dashboard APIs
 - 🗃️ MySQL Database Integration
 - 📈 RESTful API 
 
