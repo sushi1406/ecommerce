@@ -3,6 +3,13 @@
 A full-featured e-commerce backend built with Java and Spring Boot.
 
 ---
+## Team Members
+- Ayushi Arya
+- Deepanjal Uppal
+- Kashish Srivastava
+- Manshi Singh
+- Sainah Shreeram
+---
 
 ## 📌 Features
 
